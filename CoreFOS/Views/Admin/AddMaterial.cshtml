@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "AddMaterial";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+@using (Html.BeginForm("AddMaterial","Admin",FormMethod.Post))
+{
+
+<div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Malzeme Ekle</h4>
+                    <div class="form-group">
+                      <label>Malzeme Uzunluğu</label>
+                      <input type="number" class="form-control form-control-lg " placeholder="Malzeme Uzunluğu" aria-label="Malzeme_Uzunluğu" name="MaterialLenght">
+                    </div>
+                    <div class="form-group">
+                      <label>Malzeme Adedi</label>
+                      <input type="number" class="form-control" placeholder="Malzeme Adedi" aria-label="Malzeme_Adedi" name="MaterialCount">
+                    </div>
+                    <div class="form-group">
+                      <label>Malzeme Açıklaması</label>
+                      <input type="text" class="form-control form-control-lg" placeholder="Malzeme Açıklaması" aria-label="Malzeme_Açıklaması" name="MaterialExp">
+                    </div>
+                     <div class="mt-3">
+                  <button class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" type="submit">EKLE</button>
+                </div>
+                  </div>
+                </div>
+                    
+}

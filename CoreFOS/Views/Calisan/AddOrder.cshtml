@@ -1,0 +1,97 @@
+﻿@using CFOS.EntityLayer.Concretes;
+@{
+    ViewData["Title"] = "AddOrder";
+    Layout = "~/Views/Shared/_layoutCalisan.cshtml";
+}
+
+@using(Html.BeginForm("AddOrder","Calisan",FormMethod.Post))
+{
+  <div class="container-scroller">
+      <div class="container-fluid page-body-wrapper full-page-wrapper">
+        <div class="content-wrapper d-flex align-items-center auth">
+          <div class="row flex-grow">
+            <div class="col-lg-4 mx-auto">
+              <div class="auth-form-light text-left p-5">
+               
+                <h6 class="font-weight-light">Sipariş Oluşturun</h6>
+                <form class="pt-3">
+                     <div class="form-group row">
+                            <label class="col-sm-3 col-form-label">Müşteriler</label>
+                            <div class="col-sm-9">
+                              <select class="form-control">
+                                            @foreach(var item in (List<Customer>)ViewBag.CustomerList) //Machine Listi viewbage ekle gonder admin orderadd controllerda
+                                            {
+                                                 <option value="@item.UserId">@item.UserAd ---->@item.UserEmail</option>
+                                            }
+                                            <input value="" id="inputChangeName" type="number" style="visibility:hidden" name="CustomerId">
+                              </select>
+                            </div>
+                          </div>
+                    <div class="form-group row">
+                            <label class="col-sm-3 col-form-label">Hammadeler</label>
+                            <div class="col-sm-9">
+                              <select class="form-control">
+                                            @foreach(var item in (List<RawMaterial>)ViewBag.RawMaterialList) 
+                                            {
+                                                 <option value="@item.HammaddeId">@item.HammaddeAdi</option>
+                                            }
+                                            <input value="" id="inputChangeName" type="number" style="visibility:hidden" name="HammaddeId">
+                              </select>
+                            </div>
+                          </div>
+                           <div class="form-group row">
+                            <label class="col-sm-3 col-form-label">Kaplamalar</label>
+                            <div class="col-sm-9">
+                              <select class="form-control">
+                                            @foreach(var item in (List<CoatingInfo>)ViewBag.CoatingInfoList) 
+                                            {
+                                                 <option value="@item.KaplamaNo">@item.KaplamaAdi</option>
+                                            }
+                                            <input value="" id="inputChangeName" type="number" style="visibility:hidden" name="KaplamaId">
+                              </select>
+                            </div>
+                          </div>
+                           <div class="form-group row">
+                            <label class="col-sm-3 col-form-label">Makineler</label>
+                            <div class="col-sm-9">
+                              <select class="form-control">
+                                            @foreach(var item in (List<Machine>)ViewBag.MachineList) 
+                                            {
+                                                 <option value="@item.MakineId">@item.MakineAdi</option>
+                                            }
+                                            <input value="" id="inputChangeName" type="number" style="visibility:hidden" name="MachineId">
+                              </select>
+                            </div>
+                          </div>
+                  <div class="form-group">
+                    <input type="checkbox" class="form-check-primary" id="islemKesme" placeholder="Kesme" name="KesmeOK" > Kesme
+                  </div>
+                  <div class="form-group">
+                    <input type="checkbox" class="form-check-primary" id="islemTaslama" placeholder="Taslama" name="TaslamaOK" > Taslama
+                  </div>
+                  <div class="form-group">
+                    <input type="checkbox" class="form-check-primary" id="islemBileme" placeholder="Bileme" name="BilemeOK" > Bileme
+                  </div>
+                  <div class="form-group">
+                    <input type="checkbox" class="form-check-primary" id="islemKumlama" placeholder="Kumlama" name="KumlamaOK" > Kumlama
+                  </div>
+                      <div class="mt-3">
+                  <button class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" onlclick="writeName()" type="submit">Sipariş Oluştur</button>
+                </div>
+                 
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  <style>
+      a{
+          color:black;
+      }
+      a:hover{
+          color:black;
+      }
+  </style>
+  }

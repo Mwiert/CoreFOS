@@ -1,0 +1,52 @@
+﻿@using CFOS.EntityLayer.Concretes;
+@{
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+@using (Html.BeginForm("AddProduct","Admin",FormMethod.Post))
+{
+
+<div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Kaplama Ekle</h4>
+                    <div class="form-group">
+                      <label>Ürün Adı</label>
+                      <input type="text" class="form-control" placeholder="Ürün Adı" aria-label="Ürün_Adı" name="UrunAdi">
+                    </div>
+                    <div class="form-group">
+                      <label>Ürün Kodu</label>
+                      <input type="text" class="form-control form-control-lg" placeholder="Ürün Kodu" aria-label="Ürün_Kodu" name="UrunKodu">
+                    </div>
+                    <div class="form-group">
+                      <label>Ön Çapı</label>
+                      <input type="number" class="form-control form-control-lg" placeholder="Ön Çapı" aria-label="On_Cap" name="OnCap">
+                    </div>
+                    <div class="form-group">
+                      <label>Arka Çapı</label>
+                      <input type="number" class="form-control" placeholder="Arka Çapı" aria-label="Arka_Çapı" name="ArkaCap">
+                    </div>
+                    <div class="form-group">
+                      <label>Helis Boyu</label>
+                      <input type="number" class="form-control form-control-lg" placeholder="Helis Boyu" aria-label="Helis_Boyu" name="HelisBoyu">
+                    </div>
+                    <div class="form-group">
+                      <label>Ham Boyu</label>
+                      <input type="number" class="form-control form-control-lg" placeholder="Ham Boyu" aria-label="Ham_Boyu" name="HamBoy">
+                    </div>
+                    <div class="form-group">
+                      <label>Ağız Sayısı</label>
+                      <input type="number" class="form-control" placeholder="Ağız Sayısı" aria-label="Ağız_Sayısı" name="AgizSayisi">
+                    </div>
+                    <div class="form-group">
+                      <label>Helis Açısı</label>
+                      <input type="number" class="form-control form-control-lg" placeholder="Helis Açısı" aria-label="Helis_Açısı" name="HelisAcisi">
+                    </div>
+                    
+                     <div class="mt-3">
+                  <button class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" type="submit">EKLE</button>
+                </div>
+                  </div>
+                </div>
+                    
+}

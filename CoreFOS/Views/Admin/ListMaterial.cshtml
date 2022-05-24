@@ -1,0 +1,40 @@
+﻿@using CFOS.EntityLayer.Concretes;
+@model List<Materials>
+@{
+    ViewData["Title"] = "ListMaterial";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<div class="col-lg-12 stretch-card">
+                <div class="table-responsive card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Malzeme Listesi</h4>
+                    <table class="table table-bordered">
+                      <thead>
+                        <tr>
+                          <th> Malzeme Numarası </th>
+                          <th> Malzeme Uzunluğu </th>
+                          <th> Malzeme Türü</th>
+                          <th> Malzeme Adedi </th>
+                          <th> İşlem </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                          @foreach(var item in (List<Materials>)ViewBag.MaterialList)
+                        {
+                        <tr class="table-info">
+                          <td>@item.MalzemeId</td>
+                          <td> @item.MalzemeUzunluk </td>
+                          <td> @item.MalzemeAciklama </td>
+                          <td> @item.MalzemeAdedi</td>  
+                           <td>
+                              <a style="text-decoration:none" class="badge badge-danger" href="/Admin/DeleteMaterial/@item.MalzemeId" > Malzeme Sil</a>
+                          </td>
+                        </tr>
+                        }
+                      </tbody>
+                    </table>
+                  </div>
+                   <a style="text-decoration:none; width:50%;margin:0 auto;" class="btn-gradient-primary btn-lg text-center" href="/Admin/AddMaterial/" > Malzeme Ekle</a>
+                </div>
+              </div>

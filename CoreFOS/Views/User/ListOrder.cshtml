@@ -1,0 +1,50 @@
+﻿@using CFOS.EntityLayer.Concretes;
+@model List<Order>
+@{
+    ViewData["Title"] = "ListOrder";
+    Layout = "~/Views/Shared/_layoutUser.cshtml";
+}
+
+
+<div class="col-lg-12 stretch-card">
+                <div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Sipariş Listesi</h4>
+                    </p>
+                    <table class="table table-bordered ">
+                      <thead>
+                        <tr>
+                           <th>Sipariş Id</th>
+                          <th> Sevk durumu</th>
+                          <th> Sevk Tarihi </th>
+                          <th> Kesme  </th>
+                          <th> Kumlama  </th>
+                          <th> Taşlama  </th>
+                          <th> Bileme  </th>
+                          <th> Sipariş Tarihi</th>
+                          <th> Tahmini T. Süresi </th>
+                          <th> Tamamlanma S. </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                         @foreach(var item in (List<Order>)ViewBag.OrderList)
+                             {
+                    <tr class="table-info">
+                          <td> @item.SiparisId</td>
+                          <td> @item.SevkDurumu</td>
+                          <td> @item.SevkTarihi</td>
+                          <td> @item.Kesme</td>
+                          <td> @item.Kumlama</td>
+                          <td> @item.Taslama</td>
+                          <td> @item.Bileme</td>
+                          <td> @item.SiparisTarihi</td>
+                          <td> @item.TahminiSure</td>
+                          <td> @item.TamamlanmaSuresi</td>
+                        
+                        </tr>
+                        }
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>

@@ -1,0 +1,74 @@
+﻿@using CFOS.EntityLayer.Concretes;
+@model List<Order>
+@{
+    ViewData["Title"] = "DeleteOrder";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<div class="col-lg-12 stretch-card">
+                <div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Sipariş Listesi</h4>
+                    </p>
+                    <table class="table table-bordered ">
+                      <thead>
+                        <tr>
+                           <th>Sipariş Id</th>
+                          <th> Onaylayan Yetkili</th>
+                          <th> Kaplama Id</th>
+                          <th> Sevk durumu</th>
+                          <th> Sevk Tarihi </th>
+                          <th> Makine Id </th>
+                          <th> Kesme  </th>
+                          <th> Kumlama  </th>
+                          <th> Taşlama  </th>
+                          <th> Bileme  </th>
+                          <th> Sipariş Tarihi</th>
+                          <th> Tahmini T. Süresi </th>
+                          <th> Tamamlanma S. </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                         @foreach(var item in (List<Order>)ViewBag.OrderList)
+                             {
+                    <tr class="table-info">
+                          <td> @item.SiparisId</td>
+                          <td> @item.Calisan.CalisanId</td>
+                          <td> @item.Kaplama.KaplamaNo</td>
+                          <td> @item.SevkDurumu</td>
+                          <td> @item.SevkTarihi</td>
+                          <td> @item.Makine.MakineId</td>
+                          <td> @item.Kesme</td>
+                          <td> @item.Kumlama</td>
+                          <td> @item.Taslama</td>
+                          <td> @item.Bileme</td>
+                          <td> @item.SiparisTarihi</td>
+                          <td> @item.TahminiSure</td>
+                          <td> @item.TamamlanmaSuresi</td>
+                        
+                        </tr>
+                        }
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+
+               @using (Html.BeginForm("DeleteOrder","User",FormMethod.Post))
+{
+               <div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Sipariş Sil</h4>
+                    <div class="form-group">
+                       <select class="form-control form-control-lg" id="Selects">
+                       @foreach(var item in (List<Order>)ViewBag.OrderList)
+                {
+                         <option value="@item.SiparisId">Sipariş Id -->@item.SiparisId</option>
+                }
+                <input value="" id="inputNameChange" type="text" style="visibility:hidden"name="OrderId">
+                       </select>
+                    </div>
+                    <button class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn text-center" onclick="writeName()" type="submit">SİL</button>
+                  </div>
+                </div>
+                 }

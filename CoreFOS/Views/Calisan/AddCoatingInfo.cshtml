@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "AddCoatingInfo";
+    Layout = "~/Views/Shared/_layoutCalisan.cshtml";
+}
+@using (Html.BeginForm("AddCoatingInfo","Calisan",FormMethod.Post))
+{
+
+<div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Kaplama Ekle</h4>
+                    <div class="form-group">
+                      <label>Kaplama Adı</label>
+                      <input type="text" class="form-control form-control-lg" placeholder="Kaplama Adı" aria-label="Malzeme_Adı" name="CoatName">
+                    </div>
+                    <div class="form-group">
+                      <label>Kaplama Sevk Tarihi</label>
+                      <input type="datetime" class="form-control" placeholder="Kaplama Sevk Tarihi" aria-label="Kaplama_Sevk_Tarihi" name="CoatSevkTime">
+                    </div>
+                    <div class="form-group">
+                      <label>Kaplama Teslim Tarihi</label>
+                      <input type="datetime" class="form-control form-control-lg" placeholder="Kaplama Teslim Tarihi" aria-label="Kaplama_Teslim_Tarihi" name="CoatTeslimTarihi">
+                    </div>
+                    
+                     <div class="mt-3">
+                  <button class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" type="submit">EKLE</button>
+                </div>
+                  </div>
+                </div>
+                    
+}

@@ -1,0 +1,42 @@
+﻿@using CFOS.EntityLayer.Concretes;
+@model List<RawMaterial>
+@{
+    ViewData["Title"] = "ListRawMaterial";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<div class="col-lg-12 stretch-card">
+                <div class="table-responsive card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Hammadde Listesi</h4>
+                    <table class="table table-bordered">
+                      <thead>
+                        <tr>
+                            <th> Hammadde Numarası </th>
+                          <th> Hammadde Adı </th>
+                          <th> Hammadde Boyu </th>
+                          <th> Hammadde Çapı </th>
+                          <th> Hammadde Seri Numarası  </th>
+                          <th> İşlemler </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                          @foreach(var item in (List<RawMaterial>)ViewBag.RawMaterialList)
+                        {
+                        <tr class="table-info">
+                           <td>@item.HammaddeId</td>
+                          <td> @item.HammaddeAdi</td>
+                          <td> @item.HammaddeBoy </td>
+                          <td> @item.HammaddeCap </td>
+                          <td> @item.HammaddeSeriNo</td>  
+                          <td>
+                              <a style="text-decoration:none" class="badge badge-danger" href="/Admin/DeleteRawMaterial/@item.HammaddeId" > Hammadde Sil</a>
+                          </td>
+                        </tr>
+                        }
+                      </tbody>
+                    </table>
+                  </div>
+                  <a style="text-decoration:none; width:50%;margin:0 auto;" class="btn-gradient-primary btn-lg text-center" href="/Admin/AddRawMaterial/" > Hammadde Ekle</a>
+                </div>
+              </div>

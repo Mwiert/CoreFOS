@@ -1,0 +1,57 @@
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.deps.json
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.Helpers.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.Helpers.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.CopyComplete
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\refint\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\ref\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.deps.json
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.Helpers.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.Helpers.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.CopyComplete
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\refint\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\ref\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.deps.json
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.ViewModelLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.Helpers.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\bin\Debug\net6.0\CFOS.Helpers.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.csproj.CopyComplete
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\refint\CFOS.ViewModelLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\CFOS.ViewModelLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.ViewModelLayer\obj\Debug\net6.0\ref\CFOS.ViewModelLayer.dll

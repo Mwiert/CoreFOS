@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "AddOrder";
+    Layout = "~/Views/Shared/_layoutUser.cshtml";
+}
+
+
+           @*  @using (Html.BeginForm("DeleteMaterial","Admin",FormMethod.Post))
+{*@
+               <div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Sipariş Ekleme Sayfası</h4>
+                    <div class="form-group">
+                        <label>Sipariş'in Kaplamasını Seçiniz</label>
+                       <select class="form-control form-control-lg" id="Selects" >
+                       @*@foreach(var item in (List<Materials>)ViewBag.MaterialList)
+                {
+                         <option value="@item.MalzemeId">@item.MalzemeId</option>
+                -*@
+                <option value="">Deneme</option>
+                <input value="" id="inputNameChange" type="text" style="visibility:hidden"name="MalzemeId">
+                       </select>
+                    </div>
+                  </div>
+                </div>
+                   <div class="card">
+                  <div class="card-body">
+                    <div class="form-group">
+                        <label>Sipariş'in Hammaddesini Seçiniz</label>
+                       <select class="form-control form-control-lg" id="Selects" >
+                       @*@foreach(var item in (List<Materials>)ViewBag.MaterialList)
+                {
+                         <option value="@item.MalzemeId">@item.MalzemeId</option>
+                -*@
+                <option value="">Deneme</option>
+                <input value="" id="inputNameChange" type="text" style="visibility:hidden"name="MalzemeId">
+                       </select>
+                    </div>
+                  </div>
+                    <button class="btn btn-block btn-primary btn-lmd font-weight-medium auth-form-btn text-center" onclick="writeName()" type="submit">EKLE</button>
+                </div>
+                                   
+                @* }*@

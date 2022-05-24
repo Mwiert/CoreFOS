@@ -1,0 +1,36 @@
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.deps.json
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\refint\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\ref\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.deps.json
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\refint\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\ref\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.deps.json
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\refint\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.EntityLayer\obj\Debug\net6.0\ref\CFOS.EntityLayer.dll

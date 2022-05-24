@@ -1,0 +1,39 @@
+﻿@using CFOS.EntityLayer.Concretes;
+@model List<Machine>
+@{
+    ViewData["Title"] = "ListMachine";
+    Layout = "~/Views/Shared/_layoutCalisan.cshtml";
+}
+
+
+
+<div class="col-lg-12 stretch-card">
+                <div class="table-responsive card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Makine Listesi</h4>
+                    <table class="table table-bordered">
+                      <thead>
+                        <tr>
+                          <th> Makine Numarası </th>
+                          <th> Makine Adı </th>
+                          <th> İşlem</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                          @foreach(var item in (List<Machine>)ViewBag.MachineList)
+                        {
+                        <tr class="table-info">
+                          <td> @item.MakineId </td>
+                          <td> @item.MakineAdi </td>
+                           <td>
+                              <a style="text-decoration:none" class="badge badge-danger" href="/Calisan/DeleteMachine/@item.MakineId" > Makine Sil</a>
+                          </td>
+                        </tr>
+                        }
+                      </tbody>
+                    </table>
+                  </div>
+                  <a style="text-decoration:none; width:50%;margin:0 auto;" class="btn-gradient-primary btn-lg text-center" href="/Calisan/AddMachine/" > Makine Ekle</a>
+                 </div>
+                </div>
+            

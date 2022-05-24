@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "AddRawMaterial";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+@using (Html.BeginForm("AddRawMaterial","Admin",FormMethod.Post))
+{
+
+<div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Hammadde Ekle</h4>
+                    <div class="form-group">
+                      <label>Hammadde Adı</label>
+                      <input type="text" class="form-control form-control-lg" placeholder="Hammadde Adı" aria-label="Malzeme_Adı" name="RawMaterialName">
+                    </div>
+                    <div class="form-group">
+                      <label>Hammadde Seri Numarası</label>
+                      <input type="text" class="form-control" placeholder="Malzeme Seri Numarası" aria-label="Malzeme_Seri_No" name="RawMaterialSerialNo">
+                    </div>
+                    <div class="form-group">
+                      <label>Hammadde Çapı</label>
+                      <input type="number" class="form-control form-control-lg" placeholder="Malzeme Çapı" aria-label="Malzeme_Capi" name="RawMaterialCap">
+                    </div>
+                    <div class="form-group">
+                      <label>Hammadde Boyu</label>
+                      <input type="number" class="form-control form-control-lg" placeholder="Malzeme Boyu" aria-label="Malzeme_Boy" name="RawMaterialBoy">
+                    </div>
+                     <div class="mt-3">
+                  <button class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" type="submit">EKLE</button>
+                </div>
+                  </div>
+                </div>
+                    
+}

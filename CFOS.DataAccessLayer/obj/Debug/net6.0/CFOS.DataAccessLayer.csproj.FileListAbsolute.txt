@@ -1,0 +1,51 @@
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.deps.json
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.Helpers.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.Helpers.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.CopyComplete
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\refint\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\ref\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.deps.json
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.Helpers.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.Helpers.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.CopyComplete
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\refint\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\ref\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.deps.json
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.EntityLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.Helpers.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.EntityLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\bin\Debug\net6.0\CFOS.Helpers.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.AssemblyInfo.cs
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.csproj.CopyComplete
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\refint\CFOS.DataAccessLayer.dll
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\CFOS.DataAccessLayer.pdb
+C:\Users\merts\Desktop\Yeni klasör\CoreFOS\CoreFOS\CoreFOS\CoreFOS\CFOS.DataAccessLayer\obj\Debug\net6.0\ref\CFOS.DataAccessLayer.dll

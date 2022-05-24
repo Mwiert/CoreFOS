@@ -1,0 +1,50 @@
+﻿@using CFOS.EntityLayer.Concretes;
+@{
+    ViewData["Title"] = "ListProduct";
+    Layout = "~/Views/Shared/_layoutCalisan.cshtml";
+}
+<div class="col-lg-12 stretch-card">
+                <div class="table-responsive card">
+                  <div class="card-body">
+                    <h4 class="card-title text-center">Makine Listesi</h4>
+                    <table class="table table-bordered">
+                      <thead>
+                        <tr>
+                          <th> Ürün No </th>
+                          <th> Ürün Adı </th>
+                          <th> Ürün Kodu</th>
+                          <th> Ön Çapı </th>
+                          <th> Arka Çapı </th>
+                          <th> Helis Boyu</th>
+                          <th> Ham Boyu </th>
+                          <th> Ağız Sayısı </th>
+                          <th> Helis Açısı</th>
+                           <th> İşlem</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                          @foreach(var item in (List<Product>)ViewBag.ProductList)
+                        {
+                        <tr class="table-info">
+                          <td> @item.UrunId </td>
+                          <td> @item.UrunAdi </td>
+                           <td> @item.UrunKodu </td>
+                          <td> @item.OnCap </td>
+                           <td> @item.ArkaCap </td>
+                          <td> @item.HelisBoyu </td>
+                           <td> @item.HelisAcisi </td>
+                            <td> @item.AgizSayisi </td>
+                          <td> @item.HelisAcisi</td>
+                           <td>
+                              <a style="text-decoration:none" class="badge badge-danger" href="/Calisan/DeleteProduct/@item.UrunId" > Ürün Sil</a>
+                          </td>
+                        </tr>
+                        }
+                      </tbody>
+                    </table>
+                  </div>
+                  <a style="text-decoration:none; width:50%;margin:0 auto;" class="btn-gradient-primary btn-lg text-center" href="/Calisan/AddProduct/" > Ürün Ekle</a>
+                 </div>
+                   
+              </div>
+            
